@@ -1,4 +1,4 @@
-# OP
+# process optimization ( using NN )
 
 This project used deep learning to predict an optimization process (outputs of a nonlinear function)  i.e modeling using neural network.
 I used the following python frameworks :
